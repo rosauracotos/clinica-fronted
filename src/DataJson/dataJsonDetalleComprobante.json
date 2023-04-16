@@ -1,0 +1,25 @@
+[
+    {
+        "idDetalle":1,
+        "idComprobante": 385,
+        "cantidad":3,
+        "precioUnitario":25,
+        "subTotal": 54,
+        "igv":0.18,
+        "valorTotal":134,
+        "idTarifa": 3
+        
+    },
+
+    {
+        "idDetalle":2,
+        "idComprobante": 390,
+        "cantidad":3,
+        "precioUnitario":45,
+        "subTotal": 84,
+        "igv":0.18,
+        "valorTotal":174,
+        "idTarifa": 4
+        
+    }
+]

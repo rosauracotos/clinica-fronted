@@ -1,0 +1,9 @@
+{
+    "idComprobante": 385,
+    "idTipoDocumento": 3,
+    "serie": 12,
+    "numero":"145",
+    "fechaEmision": "",
+    "valorTotal": 496.00,
+    "idCita":14
+}

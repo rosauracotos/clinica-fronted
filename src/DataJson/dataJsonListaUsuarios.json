@@ -1,0 +1,13 @@
+[
+    {
+        "idUsuario": 1,
+        "nombre": "Carol",
+        "apellido": "Chero",
+        "sexo":"Femenino",
+        "celular":"994574102",
+        "dni": "47147854",
+        "login":"12",
+        "password":"123456",
+        "idRol": "2"
+    }
+]

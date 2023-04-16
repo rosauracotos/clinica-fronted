@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "ADMINISTRADOR",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "USUARIOS",
+        "activo": true
+    }
+]

@@ -1,25 +1,27 @@
-import logo from './logo.svg';
+/* eslint-disable no-unreachable */
+import React, {Component} from 'react';
 import './App.css';
+//import CompFormAgregarUsuario from './Componentes/CompFormAgregarUsuarios';
+//import PageCitaDetalle from './Componentes/PageCitaDetalle';
+//import PageUsuarios from  './Componentes/PageUsuarios';
+//import PageListaUsuarios from  './Componentes/PageListaUsuarios';
+//import PageComprobanteDetalle from './Componentes/PageComprobanteDetalle';
+//import PageListaComprobantes from  './Componentes/PageListaComprobantes';
+import CompListaRoles from './Componentes/CompListaRoles';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+  render(){
+    //return  <PageCitaDetalle/>
+    //return  <PageUsuarios/>
+    //return  <PageListaUsuarios/>
+    //return  <PageComprobanteDetalle/>
+    //return  <PageUsuarios/>
+    //return  <PageListaComprobantes/>
+    return <CompListaRoles/>
+    
+  }
 }
 
 export default App;
+
